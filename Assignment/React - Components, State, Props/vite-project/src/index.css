@@ -1,0 +1,18 @@
+.listMain, .IncrDecrMain{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    list-style-type: disc;
+    flex-direction: column;
+}
+
+.counter{
+    background-color: antiquewhite;
+    padding: 10px;
+}
+
+button{
+    margin: 10px;
+    font-size: 20px;
+}
