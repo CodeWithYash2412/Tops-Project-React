@@ -1,0 +1,29 @@
+.main{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    box-sizing: border-box;
+}
+
+.main input {
+    width: 40%;
+    height: 5%;
+}
+
+.mainTable{
+    width: 40%;
+}
+
+.mainTable table {
+    border: 1px solid black;
+    width: 100%;
+    text-align: center;
+}
+
+.mainTable tr, .mainTable th, .mainTable td{
+    border: 1px solid black
+}
+
